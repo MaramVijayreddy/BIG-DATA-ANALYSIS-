@@ -112,3 +112,21 @@ Data loading using PySpark
 A markdown summary section.
 
 
+OUTPUT
+
+
+![Image](https://github.com/user-attachments/assets/0b05919c-cbb6-4931-8449-5c00b5dd15b5)
+
+![Image](https://github.com/user-attachments/assets/83af9074-998e-441c-b6de-dc1b27db3674)
+
+![Image](https://github.com/user-attachments/assets/9dbcf508-7841-4faf-97b6-574ace7fbf6e)
+
+![Image](https://github.com/user-attachments/assets/62fd0b8a-fe94-4fa5-b5f2-eeca5d937ec7)
+
+![Image](https://github.com/user-attachments/assets/890daa48-4507-4f79-833c-173a9aa4d1ab)
+
+![Image](https://github.com/user-attachments/assets/3e496a13-4b48-46b5-abdc-3aeca5a34463)
+
+![Image](https://github.com/user-attachments/assets/4d5ff71b-7c6e-4239-a93e-0bd594c6210e)
+
+
