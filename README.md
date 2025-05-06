@@ -21,6 +21,15 @@
 
 This project was developed as part of my internship to demonstrate skills in Big Data Analysis using scalable tools like PySpark. The objective was to analyze a large real-world dataset efficiently, extract meaningful insights, and visualize trends using Python and big data tools.
 
+## 📊 Dataset Used
+
+This project uses the [New York City Taxi Trip dataset](https://www.kaggle.com/datasets/competitions/nyc-taxi-trip-duration) from Kaggle.
+
+> Note: You must have a Kaggle account and be logged in to access or download the dataset.
+
+
+
+
 The dataset used in this project is based on New York City Taxi Trips, containing millions of records with fields such as:
 
 pickup_datetime, dropoff_datetime
